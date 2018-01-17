@@ -14,7 +14,8 @@ Smart India Hackathon 2017 Grand Finale
 | Backend | Design  | Research  |
 | ------- | ------- | --------- |
 | [Mukul Garg](https://m4mukulgarg.github.io/about-me/) | Samridhi Jain | Ankush Garg |
-| [Sajal Garg](https://www.linkedin.com/in/sajal-garg-247609157/)  | Saurav Panwar  | Sarthak Sharma |
+| [Sajal Garg](https://www.linkedin.com/in/sajal-garg-247609157/)  | Saurav Panwar  |
+|[Sarthak Sharma] ( https://github.com/SarthakSharma886) |
 
 ## Aim:
 To add a window on the Ministry's website to monitor Key Performance Indicators of cold chain projects for helping in better policy-making.
